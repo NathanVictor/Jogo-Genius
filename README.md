@@ -26,17 +26,26 @@ cd SeuRepositorio
 Abra o arquivo index.html no navegador para jogar.
 
 Aprendizados
-Durante o desenvolvimento deste projeto, aprendi a:
+Durante o desenvolvimento deste projeto, foi ensinado: 
 
-Manipular eventos no JavaScript, como cliques e temporizadores.
+anipular eventos no JavaScript, como cliques e temporizadores.
+
 Criar animações simples e transições de cores com CSS.
+
 Aplicar a lógica de repetição e condições para a construção de jogos interativos.
-Melhorias Futuras
-Adicionar diferentes níveis de dificuldade.
-Criar uma tabela de recordes.
-Implementar sons correspondentes a cada cor pressionada.
-Melhorar a responsividade da interface para diferentes dispositivos.
-Contribuições
+
+
+# Melhorias Futuras
+
+`Adicionar diferentes níveis de dificuldade.`
+
+`Criar uma tabela de recordes.`
+
+`Implementar sons correspondentes a cada cor pressionada.`
+
+`Melhorar a responsividade da interface para diferentes dispositivos.`
+
+## Contribuições
 Sinta-se à vontade para contribuir com melhorias ou correções neste projeto! Basta fazer um fork do repositório, realizar suas alterações e enviar um pull request.
 
 ## Licença
