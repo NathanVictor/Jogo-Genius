@@ -13,19 +13,19 @@ O Genius é um jogo de memória em que o jogador deve repetir a sequência de co
 
 
 ## Como Executar o Projeto
-Clone o repositório:
 
-bash
-Copiar código
-git clone https://github.com/SeuUsuario/SeuRepositorio.git
-Acesse o diretório do projeto:
+*bash*
+*Copiar código
+*git clone https://github.com/SeuUsuario/SeuRepositorio.git*
+*Acesse o diretório do projeto:*
 
-bash
-Copiar código
-cd SeuRepositorio
-Abra o arquivo index.html no navegador para jogar.
+*bash*
+*Copiar código*
+*cd SeuRepositorio*
+*Abra o arquivo index.html no navegador para jogar.*
 
-Aprendizados
+## Aprendizados
+
 Durante o desenvolvimento deste projeto, foi ensinado: 
 
 anipular eventos no JavaScript, como cliques e temporizadores.
